@@ -34,3 +34,21 @@ const calculadora = {
 }
 
 */
+
+
+
+// segundo concepto funciones de orden superior
+// funciones que reciben o devuelven funciones
+/* 
+una funcion que ejecuta una funcion
+function ejecutar(funcion){
+    funcion();
+}
+
+
+y despues la ejecuta cuando se llama
+ejecutar(()=>{
+    console.log("Hola");
+});
+
+*/
