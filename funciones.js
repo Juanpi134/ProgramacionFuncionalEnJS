@@ -52,3 +52,6 @@ ejecutar(()=>{
 });
 
 */
+
+
+// Por ejemplo map recibe una funcion, porque es una función de orden superior
