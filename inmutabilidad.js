@@ -15,3 +15,24 @@ const nuevaPersona = {
     edad:21
 };
 
+
+/*   
+
+ahora existen dos objetos distintos
+{
+ nombre:"Juan",
+ edad:20
+}
+
+
+y
+
+
+{
+ nombre:"Juan",
+ edad:21
+}
+
+esto es lo que termina haciendo react con useState cuando se actualiza el estado
+
+*/
